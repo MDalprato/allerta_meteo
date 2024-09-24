@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../allerta_meteo_frontend"
+		},
+		{
+			"path": "../allerta-meteo-backend"
+		},
+		{
+			"path": "."
+		}
+	]
+}
